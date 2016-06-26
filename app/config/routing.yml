@@ -1,0 +1,4 @@
+chr_platform:
+    resource: "@CHRPlatformBundle/Controller/"
+    type:     annotation
+    prefix:   /
